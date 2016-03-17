@@ -1,3 +1,4 @@
+1)
 On branch master
 
 Initial commit
@@ -13,7 +14,7 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 
 
-
+2)
 On branch master
 
 Initial commit
@@ -24,4 +25,11 @@ Untracked files:
         src/
 
 nothing added to commit but untracked files present (use "git add" to track)
+
+
+
+3)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
 
