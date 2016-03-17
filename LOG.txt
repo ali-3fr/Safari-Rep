@@ -1,0 +1,6 @@
+commit efad6898cae7bb9c4758d6dcdc4f35dc6ed10525
+Author: Safari Ali <ali.3fr@gmail.com>
+Date:   Thu Mar 17 16:03:26 2016 +0300
+
+    Add .gitignore
+
